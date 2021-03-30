@@ -1,7 +1,7 @@
 *{
     background-color: black;
 }
-#t2{
+#dev{
     background: rgba(0, 0, 0, 0);
     color: #28B463; 
     font: bold;
@@ -11,7 +11,7 @@
     bottom: 20px;
     left: 250px;
 }
-#text{
+#jay{
     background: rgba(0, 0, 0, 0);
     color: blanchedalmond;
         position: absolute;
@@ -27,35 +27,35 @@
     background: rgba(0, 0, 0, 0);
     font-size: 40px;
     position: absolute;
-    top: 70px;
+    top: 65px;
     right: 460px;
 }
 #t4{
     font: italic;
     color:#28B463;
     background: rgba(0, 0, 0, 0);
-    font-size: 20px;
+    font-size: 15px;
     position: absolute;
-    top: 150px;
-    right: 380px;
+    top: 125px;
+    right: 440px;
 }
-#t5{
+#dis{
     
     font-family: cursive;
     color:#808B96;
     background: rgba(0, 0, 0, 0);
-    font-size:16px;
+    font-size:14px;
     position: absolute;
-    top: 220px;
-    right: 115px;}
-#t6{
+    top: 170px;
+    right: 185px;}
+#ser{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
     background: rgba(0, 0, 0, 0);
-    font-size: 30px;
+    font-size: 27px;
     position: absolute;
-    top: 430px;
-    right: 480px;
+    top: 350px;
+    right: 490px;
 }
 
 
@@ -78,9 +78,113 @@ padding-top: 40px;
 }
 #rocket{
     position: absolute;
-    height: 40px;
-    width: 40px;
+    height: 30px;
+    width: 30px;
     z-index: 1;
-    top: 480px;
+    top: 400px;
+    right: 180px;
+}
+#rt1{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: rgba(0, 0, 0, 0);
+    position: absolute;
+    z-index: 1;
+    top: 440px;
+    right: 120px;
+}
+#rt2{
+    font-size: 14px;
+    color: #808B96;
+    font-family: cursive;
+    background: rgba(0, 0, 0, 0);
+    position: absolute;
+    z-index: 1;
+    top: 470px;
+    right: 25px;
+}
+#pc{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    z-index: 1;
+    top: 400px;
+    right: 570px;
+}
+#pct{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: rgba(0, 0, 0, 0);
+    position: absolute;
+    z-index: 1;
+    top: 440px;
+    right: 520px;
+}
+#pct2{
+    font-size: 14px;
+    color: #808B96;
+    font-family: cursive;
+    background: rgba(0, 0, 0, 0);
+    position: absolute;
+    z-index: 1;
+    top: 470px;
+    right: 355px;
+}
+#set{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    z-index: 1;
+    top: 520px;
     right: 580px;
+}
+#set1{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: rgba(0, 0, 0, 0);
+    position: absolute;
+    z-index: 1;
+    top: 560px;
+    right: 548px;
+}
+#set2{
+    font-size: 14px;
+    color: #808B96;
+    font-family: cursive;
+    background: rgba(0, 0, 0, 0);
+    position: absolute;
+    z-index: 1;
+    top: 588px;
+    right: 395px;}
+
+#develop{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    z-index: 1;
+    top: 520px;
+    right: 180px;
+}
+#dv1{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: rgba(0, 0, 0, 0);
+    position: absolute;
+    z-index: 1;
+    top: 560px;
+    right: 140px;
+}
+#dv2{
+    font-size: 14px;
+    color: #808B96;
+    font-family: cursive;
+    background: rgba(0, 0, 0, 0);
+    position: absolute;
+    z-index: 1;
+    top: 588px;
+    right: 100px;
 }
