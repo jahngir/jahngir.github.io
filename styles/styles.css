@@ -2,15 +2,17 @@
     background-color: black;
 }
 #t2{
-    
-    color: green; 
+    background: rgba(0, 0, 0, 0);
+    color: #28B463; 
+    font: bold;
     position: absolute;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 18px;
+    font-size: 20px;
     bottom: 20px;
     left: 250px;
 }
 #text{
+    background: rgba(0, 0, 0, 0);
     color: blanchedalmond;
         position: absolute;
         font-family: 'Times New Roman', Times, serif;
@@ -19,7 +21,8 @@
         left: 150px;
       }
 #t3{
-    font-family: Arial, Helvetica, sans-serif;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
     background: rgba(0, 0, 0, 0);
     font-size: 40px;
@@ -29,7 +32,7 @@
 }
 #t4{
     font: italic;
-    color: green;
+    color:#28B463;
     background: rgba(0, 0, 0, 0);
     font-size: 20px;
     position: absolute;
