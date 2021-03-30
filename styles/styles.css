@@ -7,9 +7,9 @@
     font: bold;
     position: absolute;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 25px;
     bottom: 20px;
-    left: 250px;
+    left: 230px;
 }
 #jay{
     background: rgba(0, 0, 0, 0);
@@ -54,7 +54,7 @@
     background: rgba(0, 0, 0, 0);
     font-size: 27px;
     position: absolute;
-    top: 350px;
+    top: 340px;
     right: 490px;
 }
 
@@ -102,7 +102,7 @@ padding-top: 40px;
     position: absolute;
     z-index: 1;
     top: 470px;
-    right: 25px;
+    right: 35px;
 }
 #pc{
     position: absolute;
@@ -130,7 +130,7 @@ padding-top: 40px;
     position: absolute;
     z-index: 1;
     top: 470px;
-    right: 355px;
+    right: 385px;
 }
 #set{
     position: absolute;
@@ -158,7 +158,7 @@ padding-top: 40px;
     position: absolute;
     z-index: 1;
     top: 588px;
-    right: 395px;}
+    right: 425px;}
 
 #develop{
     position: absolute;
