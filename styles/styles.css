@@ -18,6 +18,25 @@
         bottom: 70px;
         left: 150px;
       }
+#t3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background: rgba(0, 0, 0, 0);
+    font-size: 40px;
+    position: absolute;
+    top: 70px;
+    right: 460px;
+}
+#t4{
+    font: italic;
+    color: green;
+    background: rgba(0, 0, 0, 0);
+    font-size: 20px;
+    position: absolute;
+    top: 150px;
+    right: 380px;
+}
+
 
 #tom{
     position: absolute;
