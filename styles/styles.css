@@ -76,3 +76,11 @@ padding-top: 40px;
     float: right;
     z-index: -2;
 }
+#rocket{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    z-index: 1;
+    top: 480px;
+    right: 580px;
+}
