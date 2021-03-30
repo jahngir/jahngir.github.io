@@ -39,6 +39,24 @@
     top: 150px;
     right: 380px;
 }
+#t5{
+    
+    font-family: cursive;
+    color:#808B96;
+    background: rgba(0, 0, 0, 0);
+    font-size:16px;
+    position: absolute;
+    top: 220px;
+    right: 115px;}
+#t6{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background: rgba(0, 0, 0, 0);
+    font-size: 30px;
+    position: absolute;
+    top: 430px;
+    right: 480px;
+}
 
 
 #tom{
